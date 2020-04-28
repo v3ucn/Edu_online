@@ -1,1 +1,91 @@
-<mxfile host="app.diagrams.net" modified="2020-04-28T01:20:08.798Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36" etag="WsulGS2bj-UPDSxjPIJa" version="13.0.1" type="github"><diagram id="1o0wgobzUQhRcMnc1mm_" name="Page-1">5Vltb5swEP41ltYPmXhJwP4IKWmlddK2bpq0L5MbHKADzIzTtPv1OxuTl0I7Wm0K0VSJ2ufzy52fe852kDsv7i8ErdL3PGY5cqz4HrnnyHF84sBXCR4agYv9RpCILG5E9k5wnf1iRmgZ6TqLWX2gKDnPZVYdCpe8LNlSHsioEHxzqLbi+eGsFU1YR3C9pHlX+jWLZdpIsePv5JcsS9J2ZtsjTUtBW2VjSZ3SmG/2RG6E3LngXDal4n7OcuW71i9Nv8UTrduFCVbKIR2+1FcfxecP8eW7zSX7VmH8yb6euM0odzRfG4PNYuVD6wEWg0NMlQuZ8oSXNI920lDwdRkzNY0FtZ3OFecVCG0Q3jIpH8zu0rXkIEplkZvWrinGupqvxZI9s/4WElQkTD6jZ8xStuxNYBx1wXjBpHgABcFyKrO7w82nBkPJVm/nZigYT7/A63bH6zlPsvINinxECApDFM1QeI7IDEUEBTYKdYGco8A562zQofs3aSbZdUW12zYQkwNdfceEZPfPOqdtbRFtQtr2TH2zC5CtTroXHK3eX/fn7MRR7AxE8XRUKHa6Xo88RDwUWqoAmA0CDeQIBZEqYEB0gBwvBxvDGwGlRJWUMg5RONcFUAawYxT6KHR1AVA/1/B31VBbnc44tKpgvX3imi2FPHrcuKOLG//E42Y6MG68UcUN+U+8jkfl9WkPW3VZ5nX81dHp5vFjk89sdOSDezYEXA703uSRCJF534EIdKYotPWmTXsTwaBtVHmE6IQyQyRU06mRFwh7atLAQtjW47hKP5rq2edH30Z/dNtodw+zp0Vn3kA6a2+kI+Ez75XhAwoYEUsHQoDI4uiQfsxMrnV0SJ/8rdgaiumR3YutXlAbesaK0bGrkavK8S0tE64wDilcYdxXX7LQ12ggdhyZZEE0/wP4FbfPFOZxdNZNG0ses55k8qSkrmh5AArv51o95oQrXsrJihZZDpCGAwNY5dGi0l1ddwr/i2wpeM1XUsGeAqg7GrrXfO/7qB36yD/2qmlZT2omstVuca0VqZSVXh0wwMJ2/LcW/AHsAmypAFwU8XcaFxlYuNiw7Ia3VkO9Mbx1xshuVSOgj56j5mnRx9D3CHtc7NH3IKG5IiA6E8JpEesgVyTgIDzsvK/OfoGiEZU61Quc5D9Y2aUFLZ5sQ/JFJ1GC9RMfnDt9pXzsmHr8wvcvYwqquzdw3bb3Q4Ib/QY=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-04-28T07:04:42.223Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36" etag="Ec2cPkjkjdg6GPAGfsj9" version="13.0.1" type="github">
+  <diagram id="1o0wgobzUQhRcMnc1mm_" name="Page-1">
+    <mxGraphModel dx="684" dy="413" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="UsLQrTPdHKwHeZp88R1S-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="UsLQrTPdHKwHeZp88R1S-1" target="UsLQrTPdHKwHeZp88R1S-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UsLQrTPdHKwHeZp88R1S-1" value="login(登录页面)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="190" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UsLQrTPdHKwHeZp88R1S-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="UsLQrTPdHKwHeZp88R1S-2" target="UsLQrTPdHKwHeZp88R1S-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UsLQrTPdHKwHeZp88R1S-2" value="新浪微博&lt;br&gt;拼接跳转链接&lt;br&gt;appid&lt;br&gt;appsecrt" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="380" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UsLQrTPdHKwHeZp88R1S-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="UsLQrTPdHKwHeZp88R1S-4" target="UsLQrTPdHKwHeZp88R1S-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UsLQrTPdHKwHeZp88R1S-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="UsLQrTPdHKwHeZp88R1S-4" target="UsLQrTPdHKwHeZp88R1S-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UsLQrTPdHKwHeZp88R1S-4" value="跳转新浪微博&lt;br&gt;微博登录" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="520" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UsLQrTPdHKwHeZp88R1S-8" value="如果登录失败&lt;br&gt;新浪微博找回密码操作" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="720" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UsLQrTPdHKwHeZp88R1S-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="UsLQrTPdHKwHeZp88R1S-6" target="UsLQrTPdHKwHeZp88R1S-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UsLQrTPdHKwHeZp88R1S-6" value="如果登录成功" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="520" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UsLQrTPdHKwHeZp88R1S-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="UsLQrTPdHKwHeZp88R1S-10" target="UsLQrTPdHKwHeZp88R1S-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UsLQrTPdHKwHeZp88R1S-10" value="回调到django系统(美多商城)&lt;br&gt;code&lt;br&gt;&lt;br&gt;&lt;span style=&quot;font-family: &amp;#34;microsoft yahei&amp;#34; , , &amp;#34;heiti&amp;#34; , , sans-serif&quot;&gt;http://127.0.0.1:8000/md_admin/weibo&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="370" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UsLQrTPdHKwHeZp88R1S-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="UsLQrTPdHKwHeZp88R1S-12" target="UsLQrTPdHKwHeZp88R1S-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6wPH6TkqR9uMNkCpWFSq-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UsLQrTPdHKwHeZp88R1S-12" target="6wPH6TkqR9uMNkCpWFSq-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6wPH6TkqR9uMNkCpWFSq-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UsLQrTPdHKwHeZp88R1S-12" target="6wPH6TkqR9uMNkCpWFSq-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UsLQrTPdHKwHeZp88R1S-12" value="利用code和新浪微博交换token&lt;br&gt;&lt;br&gt;token-&amp;gt;新浪微博昵称&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="200" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6wPH6TkqR9uMNkCpWFSq-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6wPH6TkqR9uMNkCpWFSq-3" target="6wPH6TkqR9uMNkCpWFSq-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6wPH6TkqR9uMNkCpWFSq-3" value="曾经登录过" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6wPH6TkqR9uMNkCpWFSq-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6wPH6TkqR9uMNkCpWFSq-7" target="6wPH6TkqR9uMNkCpWFSq-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6wPH6TkqR9uMNkCpWFSq-7" value="把曾经登录的账号取出来，然后人为的帮用户登录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6wPH6TkqR9uMNkCpWFSq-9" value="将库里的账号返回给前端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6wPH6TkqR9uMNkCpWFSq-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6wPH6TkqR9uMNkCpWFSq-1" target="6wPH6TkqR9uMNkCpWFSq-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6wPH6TkqR9uMNkCpWFSq-1" value="首次使用新浪登录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6wPH6TkqR9uMNkCpWFSq-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6wPH6TkqR9uMNkCpWFSq-5" target="6wPH6TkqR9uMNkCpWFSq-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="620" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="460" y="580" />
+              <mxPoint x="110" y="580" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6wPH6TkqR9uMNkCpWFSq-5" value="将新浪微博信息入库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
